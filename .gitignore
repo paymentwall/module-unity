@@ -14,6 +14,10 @@ sysinfo.txt
 *.meta
 /Unity/PW Plugin/Library
 /Unity/Demo/Library
+/Unity/Demo/*.csproj
+/Unity/Demo/*.sln
+/Unity/PW Plugin/*.csproj
+/Unity/PW Plugin/*.sln
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #

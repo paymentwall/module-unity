@@ -6,4 +6,4 @@ Paymentwall module for Unity.
 * Tested on Unity
 
 # Installation
-To install Paymentwall Unity SDK, please follow the [instructions](https://www.paymentwall.com/en/documentation/Unity/3609).
+To install Paymentwall Unity SDK, please follow the [instructions](https://docs.paymentwall.com/integration/sdks/unity).
